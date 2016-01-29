@@ -4,7 +4,7 @@
     <application
         android:icon="@mipmap/ic_launcher"
         android:allowBackup="true"
-        android:label="@string/app_name">
+        android:label="XPrivacy in App Info">
 
         <meta-data
             android:name="xposedmodule"
