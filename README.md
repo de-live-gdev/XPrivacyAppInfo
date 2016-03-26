@@ -4,8 +4,12 @@
 ## General
 Latest modification: 25. Jan 2016 (v1.11)  
 License: **GPLv3**  
-XPosed module created and maintained by  
-Gregor Santner (<http://de-live-gdev.github.io>), 2014-  
+XPosed module created and maintained by Gregor Santner (<http://de-live-gdev.github.io>), 2014-  
+
+[![Build Status](https://travis-ci.org/de-live-gdev/XPrivacyAppInfo.svg?branch=master)](https://travis-ci.org/de-live-gdev/XPrivacyAppInfo)
+<span class="badge-githubfollow"><iframe src="https://ghbtns.com/github-btn.html?user=de-live-gdev&amp;type=follow&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe></span>
+<span class="badge-githubstar"><iframe src="https://ghbtns.com/github-btn.html?user=de-live-gdev&amp;repo=XPrivacyAppInfo&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe></span>
+<span class="badge-bitcoin"><a href="https://de-live-gdev.github.io/donate/#donate" title="Donate once-off to this project using Bitcoin"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg" alt="Bitcoin donate button" /></a></span>
 
 ## Description
 This module adds a button to every app in App Info page.   
