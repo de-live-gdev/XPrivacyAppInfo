@@ -1,15 +1,14 @@
-![App Logo](https://raw.githubusercontent.com/de-live-gdev/XPrivacyAppInfo/master/app/src/main/res/mipmap-hdpi/ic_launcher.png "App Logo") XPrivacy Button in App Info
+![App Logo](https://raw.githubusercontent.com/gsantner/XPrivacyAppInfo/master/app/src/main/res/mipmap-hdpi/ic_launcher.png "App Logo") XPrivacy Button in App Info
 =============================
 
 ## General
-Latest modification: 25. Jan 2016 (v1.11)  
 License: **GPLv3**  
-XPosed module created and maintained by Gregor Santner (<http://de-live-gdev.github.io>), 2014-  
+XPosed module created and maintained by Gregor Santner (<https://gsantner.github.io>), 2014-  
 
-[![Build Status](https://travis-ci.org/de-live-gdev/XPrivacyAppInfo.svg?branch=master)](https://travis-ci.org/de-live-gdev/XPrivacyAppInfo)
-<span class="badge-githubfollow"><iframe src="https://ghbtns.com/github-btn.html?user=de-live-gdev&amp;type=follow&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe></span>
-<span class="badge-githubstar"><iframe src="https://ghbtns.com/github-btn.html?user=de-live-gdev&amp;repo=XPrivacyAppInfo&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe></span>
-<span class="badge-bitcoin"><a href="https://de-live-gdev.github.io/donate/#donate" title="Donate once-off to this project using Bitcoin"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg" alt="Bitcoin donate button" /></a></span>
+[![Build Status](https://travis-ci.org/gsantner/XPrivacyAppInfo.svg?branch=master)](https://travis-ci.org/gsantner/XPrivacyAppInfo)
+<span class="badge-githubfollow"><iframe src="https://ghbtns.com/github-btn.html?user=gsantner&amp;type=follow&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe></span>
+<span class="badge-githubstar"><iframe src="https://ghbtns.com/github-btn.html?user=gsantner&amp;repo=XPrivacyAppInfo&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe></span>
+<span class="badge-bitcoin"><a href="https://gsantner.github.io/donate/#donate" title="Donate once-off to this project using Bitcoin"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg" alt="Bitcoin donate button" /></a></span>
 
 ## Description
 This module adds a button to every app in App Info page.   
@@ -19,8 +18,8 @@ Personally I tried the module on AOSP&CM based ROMs with version 4.2.2, 4.4, 5.0
 ## Downloads
 
 * [XPosed module repository](http://repo.xposed.info/module/de.live.gdev.xprivacyappinfo)  
-* [Release archive](https://github.com/de-live-gdev/XPrivacyAppInfo/releases)  
-* [F-Droid (author repo)](http://de-live-gdev.github.io/fdroid/xprivacy-in-app-info/)  
+* [Release archive](https://github.com/gsantner/XPrivacyAppInfo/releases)  
+* [F-Droid (author repo)](https://gsantner.github.io/fdroid/xprivacy-in-app-info/)  
 
 ## Releases
 
@@ -49,11 +48,11 @@ Personally I tried the module on AOSP&CM based ROMs with version 4.2.2, 4.4, 5.0
 ## Donations
 <table>
  <tr>
-	<td><a href="bitcoin:1B9ZyYdQoY9BxMe9dRUEKaZbJWsbQqfXU5?amount=0.01&label=de-live-gdev">
-    <img src="http://de-live-gdev.github.io/assets/img/personal/bitcoin/bitcoin_gdev-live-gdev_150px.png"/></a></td>
+	<td><a href="bitcoin:1B9ZyYdQoY9BxMe9dRUEKaZbJWsbQqfXU5?amount=0.01&label=gsantner">
+    <img src="https://gsantner.github.io/assets/img/personal/bitcoin/bitcoin_gdev-live-gdev_150px.png"/></a></td>
 	<td>If you like my work on <b>XPrivacy Button in App Info</b> and Open-Source, or just want to spend me a coke, consider a small donation to my bitcoin address:
 
-    <a href="http://de-live-gdev.github.io/about/#donate">
+    <a href="https://gsantner.github.io/about/#donate">
     1B9ZyYdQoY9BxMe9dRUEKaZbJWsbQqfXU5</a></td>
  </tr>
 </table>
