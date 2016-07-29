@@ -48,7 +48,7 @@ Personally I tried the module on AOSP&CM based ROMs with version 4.2.2, 4.4, 5.0
 ## Donations
 <table>
  <tr>
-	<td><a href="bitcoin:1B9ZyYdQoY9BxMe9dRUEKaZbJWsbQqfXU5?amount=0.01&label=gsantner">
+	<td><a href="bitcoin:1B9ZyYdQoY9BxMe9dRUEKaZbJWsbQqfXU5?amount=0.01&label=gsantner_XPrivacyAppInfo">
     <img src="https://gsantner.github.io/assets/img/personal/bitcoin/bitcoin_gdev-live-gdev_150px.png"/></a></td>
 	<td>If you like my work on <b>XPrivacy Button in App Info</b> and Open-Source, or just want to spend me a coke, consider a small donation to my bitcoin address:
 
